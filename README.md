@@ -1,5 +1,7 @@
 ## MindComponentsReact
 
+![design-components](design-components.png)
+
 React component set
 
 Special for [online library](https://github.com/MindBreakerGM/BookList)
