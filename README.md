@@ -1,9 +1,11 @@
-<h1>MindComponentsReact</h1>
+## MindComponentsReact
 
-<p>React component set</p>
+React component set
 
-<p>Special for online library <a href="https://github.com/MindBreakerGM/BookList">BookList</a></p>
+Special for [online library](https://github.com/MindBreakerGM/BookList)
 
-<h3>Get started</h3>
+### Get started
 
-<p>npm i mind-components-react</p>
+```
+npm i mind-components-react
+```
