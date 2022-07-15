@@ -1,6 +1,6 @@
 ## MindComponentsReact
 
-![design-components](design-components.png)
+![design-components](https://mir-s3-cdn-cf.behance.net/project_modules/fs/ea1b9b148200897.62d1081adfa3f.png)
 
 React component set
 
